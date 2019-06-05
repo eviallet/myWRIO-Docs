@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['setangularspeed',['setAngularSpeed',['../classmy_r_i_o_1_1_motor.html#abd165574eb8e361e2a9724fdbbbbc598',1,'myRIO::Motor']]],
+  ['setangularspeedanddirection',['setAngularSpeedAndDirection',['../classmy_r_i_o_1_1_motor.html#aa9bad52bfc15e206eaa6161f5c4bcedb',1,'myRIO::Motor']]],
+  ['setdirection',['setDirection',['../classmy_r_i_o_1_1_motor.html#a2d71f0380c1a8167cf88d846b3f15667',1,'myRIO::Motor']]],
+  ['setdutycycle',['setDutyCycle',['../classmy_r_i_o_1_1_p_w_m.html#a07bdb298d18f0c8dd1699a3b1dcc9429',1,'myRIO::PWM']]],
+  ['setfrequency',['setFrequency',['../classmy_r_i_o_1_1_p_w_m.html#a0595e8389fd220e69c79f2a42fd3dd8f',1,'myRIO::PWM']]],
+  ['setinterrupt',['setInterrupt',['../classmy_r_i_o_1_1_motor.html#a4ad4085c2d49b6783a12c636dbbf8419',1,'myRIO::Motor']]],
+  ['setprescaler',['setPrescaler',['../classmy_r_i_o_1_1_p_w_m.html#ab04f8fb1f671b48ec23e9a5bf6f240ae',1,'myRIO::PWM']]],
+  ['setsetpoint',['setSetpoint',['../classmy_r_i_o_1_1_motor_p_i_d.html#ab0d69530de257c4d29726bcda745dc17',1,'myRIO::MotorPID::setSetpoint()'],['../classmy_r_i_o_1_1_pendulum.html#a29a8b8bcdcb240f95293f6c1c35e7fca',1,'myRIO::Pendulum::setSetpoint()']]],
+  ['setspeed',['setSpeed',['../classmy_r_i_o_1_1_motor.html#a4aece812dc94b008a874e4b38c3a3863',1,'myRIO::Motor']]],
+  ['slave',['slave',['../classmy_r_i_o_1_1_i2_c.html#a46c2a82b1a8146fc6b4a688a82a0970d',1,'myRIO::I2C']]],
+  ['speed',['speed',['../classmy_r_i_o_1_1_i2_c.html#a57755eab4de5779268181852311750a2',1,'myRIO::I2C']]],
+  ['start',['start',['../classmy_r_i_o_1_1_i2_c.html#a3d8367c29c94b70ab2b5743a211599f8',1,'myRIO::I2C']]],
+  ['startfreerunningmode',['startFreeRunningMode',['../classmy_r_i_o_1_1_gyro.html#a068f42293e1363c51a8a59d08b71168b',1,'myRIO::Gyro']]],
+  ['startthread',['startThread',['../classmy_r_i_o_1_1_encoder.html#aa474701b361c7139230d41ce4b8f5959',1,'myRIO::Encoder']]],
+  ['stopfreerunningmode',['stopFreeRunningMode',['../classmy_r_i_o_1_1_gyro.html#ab9c4dc9bdc1e8ce2302347653fc467e2',1,'myRIO::Gyro']]],
+  ['stopthread',['stopThread',['../classmy_r_i_o_1_1_encoder.html#afccd1e7bca091b7019b9c463eba43083',1,'myRIO::Encoder']]],
+  ['stopwatch',['stopwatch',['../classmy_r_i_o_1_1_time.html#a92732a8e1b40acc9735440b3996cda51',1,'myRIO::Time']]]
+];
