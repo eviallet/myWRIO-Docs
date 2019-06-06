@@ -7,4 +7,4 @@ Generated with [Doxygen](http://doxygen.nl/)
 
 Open *index.html*.
 
-<img src="Capture.PNG" height="800" width="800">
+<img src="Capture.PNG" height="800" width="840">
